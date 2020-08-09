@@ -15,6 +15,6 @@ class CfgWeapons{
 class rhs_acc_pkas;
 class rhs_acc_1p63: rhs_acc_pkas
 	{
-		model="\VSMafrf\addons\rhs_weapons\acc\scopes\1p63\rhs_1p63\rhs_1p63.p3d";
+		model="\VSMafrf\addons\rhs_weapons\acc\scopes\1p63\rhs_1p63.p3d";
 	};
 }
